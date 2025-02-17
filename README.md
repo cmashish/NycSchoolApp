@@ -1,6 +1,3 @@
-# MySample
-Sample github
-
 Key Features:
 
 School Listings: A dynamic list displaying names and brief overviews of NYC public schools.
