@@ -15,7 +15,7 @@ Kotlin Coroutines: Manages background threads and ensures smooth, non-blocking o
 Retrofit: Handles HTTP requests to fetch data from the NYC Open Data API.
 Hilt: Manages dependency injection, promoting modularity and testability.
 Jetpack Navigation Component: Facilitates seamless navigation between different screens within the app.
-Room Database: Provides an abstraction layer over SQLite to allow fluent database access while harnessing the full power of SQLite.
+
 Setup and Installation:
 
 Clone the Repository:
